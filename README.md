@@ -69,15 +69,18 @@ En cualquiera de las dos carpetas, en este orden:
 | [`test-manager-library-3145555-page`](https://github.com/code-sena/test-manager-library-3145555-page) | Sitio público estático de presentación |
 | [`test-manager-library-3145555-infra`](https://github.com/code-sena/test-manager-library-3145555-infra) | Contenedores, red, volúmenes y motor de base de datos vacío |
 | [`test-manager-library-3145555-tool`](https://github.com/code-sena/test-manager-library-3145555-tool) | Utilidades: sembrador de datos de demostración |
+## Repositorios de entrega y evidencias
 
+Sube cada parte del proyecto al repositorio correspondiente. La evidencia debe quedar dentro del
+repositorio (código, pruebas, instrucciones o archivos necesarios para comprobar el avance) y en
+commits realizados antes de la hora límite.
 
-Repos,  Evidencia :
-
-https://github.com/MariaOyola/test-manager-library-3145555-docs-
-https://github.com/MariaOyola/test-manager-library-3145555-api
-https://github.com/MariaOyola/test-manager-library-3145555-app
-https://github.com/MariaOyola/test-manager-library-3145555-page
-https://github.com/MariaOyola/test-manager-library-3145555-infra
-
+| Repositorio | Qué subir como evidencia |
+|---|---|
+| [docs](https://github.com/MariaOyola/test-manager-library-3145555-docs-) | Especificaciones y documentación del proyecto. |
+| [api](https://github.com/MariaOyola/test-manager-library-3145555-api) | Backend Laravel, migraciones y pruebas de la API. |
+| [app](https://github.com/MariaOyola/test-manager-library-3145555-app) | Aplicación React y evidencia de sus pantallas y flujos. |
+| [page](https://github.com/MariaOyola/test-manager-library-3145555-page) | Sitio público de presentación y archivos para ejecutarlo. |
+| [infra](https://github.com/MariaOyola/test-manager-library-3145555-infra) | Configuración de contenedores y pasos para levantar los servicios. |
 
 
